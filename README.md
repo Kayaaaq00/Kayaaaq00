@@ -19,5 +19,5 @@
 </div>
 
 <p align="center">    
-  <img src="kayaaaq00.vercel.app" />
+  <img src="https://kaya-counter.vercel.app" />
 </p>
