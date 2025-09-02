@@ -14,9 +14,9 @@
 
 [![Discord Profilim](https://lanyard.cnrad.dev/api/1397270331970027530)](https://discord.com/users/1397270331970027530)
 
-<div align="center">
-  <h3><b>📍 Profilime Kaç Kişi Baktı</b></h3>
-</div>
-<p align="center">    
-  <img src="https://kayaaaq-counter.vercel.app/api/count" alt="Visitor Counter" />
-</p>
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stat's" alt="Typing SVG" /></h2>
+<h2 align="center">
+<img width="50%" src="https://count.getloli.com/get/@:Kayaaaq00?theme=rule34">
+<br> </br>
+<img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/Kayaaaq00?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a>
+</h2>
