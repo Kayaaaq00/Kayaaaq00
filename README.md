@@ -17,7 +17,23 @@
 <div align="center">
   <h3><b>📍 Profilime Kaç Kişi Baktı</b></h3>
 </div>
-
 <p align="center">    
-  <img src="[https://[https://kayaaaq-counter.vercel.app].vercel.app" />
+  <img src="https://kayaaaq-counter.vercel.app/api/count" alt="Visitor Counter" />
 </p>
+
+/api
+  └── count.js
+
+export default async function handler(req, res) {
+  const count = Math.floor(Math.random() * 1000) + 100; // Geçici
+  
+  res.setHeader('Content-Type', 'image/svg+xml');
+  res.status(200).send(`
+    <svg xmlns="http://www.w3.org/2000/svg" width="120" height="20">
+      <rect width="120" height="20" fill="#0066cc"/>
+      <text x="60" y="15" font-family="Arial" font-size="12" fill="white" text-anchor="middle">
+        Visitors: ${count}
+      </text>
+    </svg>
+  `);
+}
