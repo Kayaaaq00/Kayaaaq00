@@ -12,7 +12,7 @@
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's" alt="Typing SVG" /></h1>
 
-[![Discord Profilim](https://lanyard.cnrad.dev/api/1397270331970027530)](https://discord.com/users/130812389372198912)
+[![Discord Profilim](https://lanyard.cnrad.dev/api/130812389372198912)](https://discord.com/users/130812389372198912)
 
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stat's" alt="Typing SVG" /></h2>
 <h2 align="center">
